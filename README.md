@@ -12,3 +12,4 @@
 * Divisible sum pairs
 * Grading students
 * Migratory birds
+* Min Max sum
