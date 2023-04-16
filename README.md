@@ -10,3 +10,4 @@
 * Compare triplates
 * Diagonal difference
 * Divisible sum pairs
+* Grading students
