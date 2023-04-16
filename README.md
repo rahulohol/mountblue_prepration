@@ -8,3 +8,4 @@
 * Bill division
 * Birthday cake Candles 
 * Compare triplates
+* Diagonal difference
