@@ -9,3 +9,4 @@
 * Birthday cake Candles 
 * Compare triplates
 * Diagonal difference
+* Divisible sum pairs
