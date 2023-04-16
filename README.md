@@ -14,3 +14,4 @@
 * Migratory birds
 * Min Max sum
 * Plus Minus
+* Staircase
