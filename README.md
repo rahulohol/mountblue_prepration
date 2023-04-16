@@ -15,3 +15,4 @@
 * Min Max sum
 * Plus Minus
 * Staircase
+* Super reduced string
