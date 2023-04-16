@@ -7,3 +7,4 @@
 * A very big Sum
 * Bill division
 * Birthday cake Candles 
+* Compare triplates
