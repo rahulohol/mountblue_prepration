@@ -17,3 +17,4 @@
 * Staircase
 * Super reduced string
 * Library fine
+* Minimum Absolute Difference
