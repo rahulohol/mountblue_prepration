@@ -16,3 +16,6 @@
 * Plus Minus
 * Staircase
 * Super reduced string
+* Library fine
+* Minimum Absolute Difference
+* Time Conversion
