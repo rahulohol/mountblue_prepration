@@ -16,3 +16,4 @@
 * Plus Minus
 * Staircase
 * Super reduced string
+* Library fine
