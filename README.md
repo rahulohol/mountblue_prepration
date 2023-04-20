@@ -25,3 +25,4 @@
 * Subarray Division
 * Caesar Cipher
 * CamelCase
+* HackerRank in a String!
