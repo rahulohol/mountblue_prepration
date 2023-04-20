@@ -24,3 +24,4 @@
 * Quicksort 1 - Partition
 * Subarray Division
 * Caesar Cipher
+* CamelCase
