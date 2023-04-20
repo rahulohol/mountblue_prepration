@@ -21,3 +21,4 @@
 * Time Conversion
 * Mars Exploration
 * Hurdle Race
+* Quicksort 1 - Partition
