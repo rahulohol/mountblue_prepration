@@ -22,3 +22,5 @@
 * Mars Exploration
 * Hurdle Race
 * Quicksort 1 - Partition
+* Subarray Division
+* Caesar Cipher
