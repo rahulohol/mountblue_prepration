@@ -19,3 +19,5 @@
 * Library fine
 * Minimum Absolute Difference
 * Time Conversion
+* Mars Exploration
+* Hurdle Race
