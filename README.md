@@ -27,4 +27,5 @@
 * CamelCase
 * HackerRank in a String!
 * Drawing Book (page count)
-*  Tower Breakers
+* Tower Breakers
+* Strong Password
