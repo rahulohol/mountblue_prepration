@@ -30,3 +30,4 @@
 * Tower Breakers
 * Strong Password
 * Day of the Programmer
+* Electronics Shop ( getMoneySpent )
