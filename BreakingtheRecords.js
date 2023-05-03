@@ -15,6 +15,7 @@ function breakingRecords(scores) {
             lowCount++;
         }
     }
+    console.log(highCount);
     return [highCount,lowCount];
 
 }

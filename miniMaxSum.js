@@ -9,7 +9,5 @@ function miniMaxSum(arr) {
     
     let min=wholesum-max1;
     let max=wholesum-min1;
-    
     console.log(min,max);
-
 }
