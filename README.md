@@ -43,3 +43,4 @@
 * circular Array Rotation
 * equalize Array
 * grid Challenge
+* permutation Equation
