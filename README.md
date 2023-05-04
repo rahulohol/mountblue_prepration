@@ -36,3 +36,4 @@
 *  Cats and a Mouse
 *  Marc's Cakewalk
 * beautifulDays
+* Sequence equation
