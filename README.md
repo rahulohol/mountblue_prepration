@@ -41,3 +41,4 @@
 * angryProfessor
 * Breaking the Records
 * circular Array Rotation
+* equalize Array
