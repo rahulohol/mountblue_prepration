@@ -35,3 +35,12 @@
 *  Jumping on the Clouds: Revisited
 *  Cats and a Mouse
 *  Marc's Cakewalk
+* beautifulDays
+* Sequence equation
+* sharelock and sqaures
+* angryProfessor
+* Breaking the Records
+* circular Array Rotation
+* equalize Array
+* grid Challenge
+* permutation Equation
